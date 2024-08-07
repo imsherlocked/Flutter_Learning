@@ -1,5 +1,7 @@
 # BMI Calculator
 
+First app as a beginnering learning flutter
+
 ## Overview
 
 Simple BMI calculator made with Flutter <3
